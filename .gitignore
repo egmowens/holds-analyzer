@@ -3,3 +3,7 @@ dist/
 nbproject/
 test/
 build.xml
+manifest.mf
+m5pexamplemodel.save
+testData.arff
+weka.jar
